@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Test.Console", "Test.Consol
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StanControl.StandaDriver", "StanControl.StandaDriver\StanControl.StandaDriver.csproj", "{C96A5777-A9EC-45E1-9498-46D99ABDC53C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StandControl.WPF", "StandControl.WPF\StandControl.WPF.csproj", "{FFE0F066-4DFE-4746-90B2-567CE97E6F30}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{C96A5777-A9EC-45E1-9498-46D99ABDC53C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C96A5777-A9EC-45E1-9498-46D99ABDC53C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C96A5777-A9EC-45E1-9498-46D99ABDC53C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFE0F066-4DFE-4746-90B2-567CE97E6F30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFE0F066-4DFE-4746-90B2-567CE97E6F30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFE0F066-4DFE-4746-90B2-567CE97E6F30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFE0F066-4DFE-4746-90B2-567CE97E6F30}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
