@@ -11,6 +11,10 @@
   </ItemGroup>
 
   <ItemGroup>
+    <PackageReference Include="System.IO.Ports" Version="7.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
     <Reference Include="ximcnet">
       <HintPath>dlls\ximcnet.dll</HintPath>
     </Reference>
